@@ -1,0 +1,6 @@
+AWS Budgets allows you set custom cost and usage budgets that alerts you when your budget thresholds are exceeded or when you are about to exceed it. 
+
+STEPS IN CREATING AWS BUDGET
+Step 1: Search cost explorer in AWS services, click on budget and proceed to click on create a budget.
+Step 2: Choose your cost budget then set your budget, name the budget, and add the budget amount.
+Step 3: Define your budget threshold, confirm your budget and create. 
